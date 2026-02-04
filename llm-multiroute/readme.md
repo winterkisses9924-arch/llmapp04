@@ -8,7 +8,7 @@
  │   ├── router/                                                          │
  │   │   ├── __init__.py                                                  │
  │   │   └── model_router.py            # Maps task type → model name     │
- │   ├── controller/                                                      │
+ │ [readme.md](readme.md)  ├── controller/                                                      │
  │   │   ├── __init__.py                                                  │
  │   │   └── ai_controller.py           # 4 REST endpoints + GET /routes  │
  info                                                                     │

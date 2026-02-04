@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+tests/
+.git/
+.gitignore
+node_modules/
+promptfoo-tests/
