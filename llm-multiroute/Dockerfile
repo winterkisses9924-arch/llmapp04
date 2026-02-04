@@ -9,7 +9,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 RUN addgroup --system app && adduser --system --ingroup app app
 
 # ---- Workdir ----
-WORKDIR /app
+WORKDIR /app/llm-multiroute
 
 # ---- System deps (minimal) ----
 RUN apt-get update \
